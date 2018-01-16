@@ -21,6 +21,9 @@ public class tiketwayang {
         System.out.print("Masukkan nama anda: ");
         nama = input.nextLine();
         
+         System.out.print("Masukkan nama anda: ");
+        nama = input.nextLine();
+        
         System.out.print("Ada kad ahli (Y/T)");
         jawap = input.findInLine(".").charAt(0);
         
